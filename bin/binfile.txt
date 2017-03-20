@@ -1,1 +1,1 @@
-This is a bin file
+This is a bin file.
