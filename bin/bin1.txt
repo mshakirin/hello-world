@@ -2,3 +2,4 @@ Adding a new file in a branch that does not yet exist.
 New folder is titled bin.
 Updating master with new version.
 After adding a force update.
+No changes after fetch to working copy.
